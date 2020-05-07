@@ -81,8 +81,12 @@ p{
     color: aliceblue;
 }
 
-.bluel{
-  color: plum;
+.card-text{
+  font-size: 2vh;
+}
+
+#wide{
+  width: 100%;
 }
 
 .table-dark{
